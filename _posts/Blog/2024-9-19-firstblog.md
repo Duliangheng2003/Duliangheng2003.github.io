@@ -3,7 +3,7 @@ title: 个人介绍
 date: 2024-09-19 20:18:44 +0800
 categories: [Blog]
 tags: [Blog]
-author: Duliangheng2003
+author: Duliangheng
 ---
 
 我是杜良衡，目前是一名大三学生，就读于深圳大学计算机科学与技术专业。从大二下学期开始，我就决定未来从事后端开发方向，并通过网上的教学视频与博客自学了后端相关的技术。 
