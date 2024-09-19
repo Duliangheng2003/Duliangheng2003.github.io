@@ -10,9 +10,9 @@ order: 4
 ## Hi there 👋
 
 ### This is Duliangheng!
-- 🎓 I'm a student in [Ibaraki University](https://www.szu.edu.cn).  My major is Computer Science.
-- 🔥 Interested in learning back-end and want to try new things. 
-- ⭐ I'm keen to share some of my learning notes and learn from those who are outstanding.
+- 🎓 I'm a student in [Shenzhen University](https://www.szu.edu.cn).  My major is Computer Science.
+- 🔥 Interested in learning back-end back-end technology. 
+- ⭐ I'm keen to share some back-end knowledge and personal learning experience from time to time.
 - 🔭 I’m currently working on school curriculum and preparing for IELTS.
 - 🌱 I’m currently learning Go.
 - 😄 Hobby:
@@ -28,4 +28,4 @@ order: 4
 - C/C++
 - HTML&CSS
 - JavaScript
-- Markdown
+
